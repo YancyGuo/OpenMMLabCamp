@@ -1,0 +1,7 @@
+{
+    "config": "new_cfg.py",
+    "unit": "img / s",
+    "overall_fps_1": 92.72,
+    "average_fps": 92.72,
+    "fps_variance": 0.0
+}
